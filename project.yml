@@ -1,0 +1,32 @@
+_prefs: 
+  baselayer: ''
+  mapid: bleege.2ea564fe
+  saveCenter: false
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85
+  - 180
+  - 85
+center: 
+  - 0
+  - 0
+  - 3
+description: "From Intro to Studio tutorial - https://www.mapbox.com/guides/intro-to-studio/"
+format: "png8:m=h:c=64"
+interactivity_layer: ''
+layers: null
+maxzoom: 19
+minzoom: 0
+name: My custom Streets style
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - vars.mss
+  - bg.mss
+  - road.mss
+  - label.mss
+  - poi_classic.mss
+template: ''
